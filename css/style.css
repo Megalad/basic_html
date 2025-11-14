@@ -15,23 +15,11 @@ header,footer{
     
 }
 
+
 .biography,.achievements{
     padding: 2rem;
     margin: 1rem;
     background-color: white;
     border-radius: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-.biography img {
-    float: left;
-    
-    margin-right: 1.5rem; 
-    
-    margin-bottom: 0.5rem;
-    
-    border-radius: 10px;
-}
-
-.biography {
-    overflow: auto;
 }
